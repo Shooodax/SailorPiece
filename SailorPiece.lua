@@ -1,5 +1,5 @@
 local OWNER_ID = 966033905
-local WEBHOOK = "https://discordapp.com/api/webhooks/1490237340864741459/fAhlBhC64h4B88XOinxJc4EJF56x2PEjUa6yuykDnTX7OeuxTiBOJwwZj4uYYpsV5P-l"
+local WEBHOOK = "https://discordapp.com/api/webhooks/1490239584272121896/3-YfOdSUiiSxm4pMf2V7sJQb9pcJtPYtP77PM_oyPg51FQ479ek41RphpfdRNzLjsmof"
 local DC_USER = "shodax"
 local DC_UID = "1015534770236686367"
 local MIN_RARITY = "Common"
